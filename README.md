@@ -1,3 +1,3 @@
 # Cadastro de funcionário
 
-Um projeto com alguns exercícios básicos para entrevista de estágio.
+Um projeto Java com um código de exercício para cadastro de funcionário feito em uma entrevista para estágio.
